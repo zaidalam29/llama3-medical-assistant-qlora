@@ -359,9 +359,8 @@ As a safety layer on top of the model's learned behavior, we add a simple keywor
 ```
 medical-ai-finetune/
 ├── README.md                   # This file
-├── medical_finetune.ipynb      # Main Colab notebook
-├── medical_data.json           # Auto-generated training data (24 examples)
-└── medical_model_final/        # Saved LoRA adapter weights (after training)
+├── finetune_medical_llama3.2_qlora.ipynb      # Main Colab notebook
+├── finetune_medical_llama3.2_qlora.py           # Auto-generated training data (24 examples)
 ```
 
 ---
