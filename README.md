@@ -360,7 +360,7 @@ As a safety layer on top of the model's learned behavior, we add a simple keywor
 medical-ai-finetune/
 ├── README.md                   # This file
 ├── finetune_medical_llama3.2_qlora.ipynb      # Main Colab notebook
-├── finetune_medical_llama3.2_qlora.py           # Auto-generated training data (24 examples)
+├── finetune_medical_llama3.2_qlora.py         # Python file
 ```
 
 ---
